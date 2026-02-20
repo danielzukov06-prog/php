@@ -1,6 +1,6 @@
 <?php
 /*
-	02 - PHP - Muutujad
+	02 - PHP
 	Daniel Žukov
 	Haapsalu Kutsehariduskeskus
 	15.01.2026

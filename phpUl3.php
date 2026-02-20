@@ -19,7 +19,7 @@
 </html>
 <?php
 /*
-	03 - PHP - Muutujad
+	03 - PHP
 	Daniel Žukov
 	Haapsalu Kutsehariduskeskus
 	15.01.2026
